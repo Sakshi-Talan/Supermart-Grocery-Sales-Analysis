@@ -2,6 +2,18 @@
 
 The Supermart Grocery Sales Analysis project is a comprehensive exploration of sales data from a supermarket, aimed at uncovering key trends, insights, and customer behavior patterns. By analyzing sales distribution across product categories, seasonal trends, and regional performance, this project provides actionable recommendations to optimize sales strategies, improve inventory management, and enhance customer targeting.
 
+## Dataset Information:
+
+* Source: The dataset contains detailed information about supermarket orders, including Order ID, Customer Name, Category, Sub Category, City, Order Date, Region, Sales, Discount, and Profit.
+* Size: The dataset consists of 9,994 rows and 12 columns, covering sales data over multiple years.
+* Time Period: The data spans several years, allowing for analysis of long-term trends and seasonal variations.
+
+Key Variables:
+* Sales: The total sales amount for each order.
+* Category: Product categories such as Eggs, Meat & Fish, Snacks, Bakery, Oils & Masala, and more.
+* Region: Geographic regions including East, West, North, and South.
+* Order Date: The date of each order, used to analyze monthly and yearly trends.
+
 ## Key Objectives:
 
 1. Analyze Sales Trends: Examine overall sales trends and revenue distribution over time to identify growth patterns and seasonal fluctuations.
