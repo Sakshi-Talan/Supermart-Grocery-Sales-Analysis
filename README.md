@@ -21,6 +21,18 @@ Key Variables:
 3. Understand Seasonal Variations: Investigate how sales vary across different months and seasons, particularly during festive and holiday periods.
 4. Provide Data-Driven Recommendations: Offer actionable insights to improve marketing strategies, inventory planning, and customer engagement.
 
+## Key Questions:
+
+1. What are the overall sales trends and revenue distribution across different product categories?
+2. Which product categories perform the best and the worst in terms of sales?
+3. What are the seasonal variations in sales?
+4. How do sales vary by region, and which regions have higher or lower performance?
+5. How have sales and profitability evolved over the years?
+6. What are the top-performing cities in terms of total sales?
+7. How can we improve sales for underperforming categories or regions?
+8. What factors (features) most impact sales predictions?
+9. What recommendations can be made to optimize sales and inventory management based on the analysis?
+
 ## Methodology:
 * Data Loading & Cleaning: The dataset, containing details about orders, categories, sales, and order dates, was loaded and cleaned. Missing values were handled using forward fill (ffill), and duplicate entries were removed.
 * Time-Based Analysis: The "Order Date" column was converted to datetime format, and time-based features (Month, Year) were extracted to analyze trends over time.
